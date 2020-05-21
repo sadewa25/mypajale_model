@@ -1,0 +1,1 @@
+# mypajale_model
